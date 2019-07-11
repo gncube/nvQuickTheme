@@ -1,9 +1,9 @@
 {
-	"project": "nvQuickTheme",
-	"version": "2.1.0",
-	"author": "TK Sheppard &amp; David Poindexter",
-	"company": "nvisionative",
-	"url": "www.nvquicktheme.com",
-    "email": "support@nvisionative.com",
+	"project": "GSN.Bootify",
+	"version": "1.0.0",
+	"author": "GSN",
+	"company": "GSN",
+	"url": "geraldncube.co.uk",
+    "email": "me@geraldncube.co.uk",
     "description": "A DNN Theme Dev Framework"
 }
